@@ -1,0 +1,2 @@
+defmodule Discography do
+end
